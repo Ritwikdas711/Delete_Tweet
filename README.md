@@ -66,3 +66,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+DAY-WISE WORKFLOW
+
+Day 1(06/09/20):- Tried to understand the problem statement and designed a workflow.
+
+Day 2(07/09/2020):- Developed the basic skeleton structure with tweet and time left as input.
+
+Day 3(08/09/2020):-Implemented the redux store in the app.
+
+Day 4(09/09/2020):-Styled the components.
+
